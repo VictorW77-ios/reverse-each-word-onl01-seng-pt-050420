@@ -1,3 +1,3 @@
 def reverse_each_word(sentences)
-  
-end
+  sentences.each do |sentence|
+    puts "Hello there, and how are you?".reverse
